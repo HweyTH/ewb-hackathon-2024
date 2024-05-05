@@ -6,7 +6,16 @@ At the heart of our hackathon lies a profound belief in the power of engineering
 The project aims to solve food-waste and sustainability problem by introducing a user-friendly and inclusive app that connects to a smart and AI-controlled fridge. Ultimately, the project introduces an innovative and simple way to track groceries' expiry dates, recommends dishes in accordance to diet and items' availability, and encourages a sense of community to diminish the level of food-waste in every household. 
 
 # Members/Roles
-Name: Gia Huy Thai
+Member 1: Gia Huy Thai
+
+Member 2: Victoria Ho
+
+Member 3: Victoria Yep
+
+Member 4: Alice
+
+Member 5: Ivan Lin
+
 
 # Links
 Figma: https://www.figma.com/file/GnxsZZjrmd9tzFf1fqf6rN/ewb_sustainibites?type=design&node-id=0-1&mode=design
